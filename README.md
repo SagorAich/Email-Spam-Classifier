@@ -1,4 +1,4 @@
-"# Email-Spam-Classifier" 
+*Email Spam Classifier* **Live** *site*: https://email-spam-classifier-gmy3.onrender.com
 
 Steps:
 1. Prepare notebook
@@ -45,6 +45,13 @@ Steps used for making the notebook:
    GradientBoostingClassifier  
    XGBClassifier  
 5. Model Selection: This dataset is imbalanced, containing 4516 samples for class 0 and 653 samples for class 1. That's why I had to focus more on the 'precision' value than accuracy. Generally, Multinomial Naive Bayes shows good results for textual data; also, here Multinomial Naive Bayes gives the best result than other algorithms. For this, I have imported Multinomial Naive Bayes in the model.pkl file.
+
+
+
+How to run?
+Download the dataset and Google Colab notebook. Import it to the Colab notebook, and run each row of the notebook sequentially.  
+Here is the **live** site https://email-spam-classifier-gmy3.onrender.com
+
 
 
 
