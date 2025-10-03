@@ -48,9 +48,10 @@ Steps used for making the notebook:
 
 
 
-How to run?
+How to run?  
 Download the dataset and Google Colab notebook. Import it to the Colab notebook, and run each row of the notebook sequentially.  
 Here is the **live** site https://email-spam-classifier-gmy3.onrender.com
+
 
 
 
